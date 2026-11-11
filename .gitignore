@@ -1,0 +1,3 @@
+# Keep your personal Giphy API key out of GitHub
+config.js
+.env
